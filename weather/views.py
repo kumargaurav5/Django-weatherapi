@@ -3,7 +3,7 @@ import json
 import urllib.request
 
 # Create your views here.
-API_key="e0851fbe20b13ebf2479435692d06f51"
+API_key=""
 
 def index(request):
     if request.method=="POST":
